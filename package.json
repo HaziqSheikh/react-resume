@@ -1,0 +1,16 @@
+{
+  "name": "react-resume",
+  "version": "1.0.0",
+  "description": "Haziq Rasool portfolio website",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Haziq Rasool",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server/server.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
+  }
+}

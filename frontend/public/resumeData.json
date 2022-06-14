@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Hi there, I'm Haziq",
+    "description": "I am a designer who codes. I use react.js and node.js to develop amazing websites. I am a certified MERN stack developer, and have sufficient experience in building both front-end and back-end sites",
+    "image": "profilepic.jpg",
+    "bio": "I am a learner at heart, with an entrepreneurial spirit, and a passion for coding. Born in a small city in Gojra and currently studing copmuter science in Lahaore Pakistan. I started my journey in practical world by working as a freelance graphic designer in my college days, after a year I directed my focus to coding and developing and learned MERN stack web development from E-vantures solutions Lahore. I have completed several intersting projects during my experience working  with teams as well as independently.",
+    "contactmessage": "For any queries or offers feel free to send an email or reach me on my social accounts.",
+    "email": "haziqrasool0@gmail.com",
+    "phone": "+92 323 9151 899",
+    "github": "https://github.com/HaziqSheikh",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "Model City Block 1",
+      "city": "Fasailabad, ",
+      "state": "Punjab",
+      "zip": "56000"
+    },
+    "website": "http://www.haziqrasool.herokuapp.com",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=149LnZ0TZogfk4O7nqsQoGPM2KEU8iEbO",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/people/Haziq-Sheikh/100007521962107/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/haziq-rasool-012b57224/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/HaziqSheikh",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "PUCIT Lahore",
+        "degree": "Bchelors in Computer Sciences",
+        "graduated": "Started in 2021",
+        "description": "Currently studing in one of well known universities in field of computer sciences in Pakistan"
+      },
+      {
+        "school": "The Standard Group Of Colleges, Gojra Campus",
+        "degree": "F.S.C pre-engineering",
+        "graduated": "August 2021",
+        "description": "Completed my college with A+ grades."
+      },
+      {
+        "school": "EVS Lahore",
+        "degree": "Full stack web development",
+        "graduated": "March 2021",
+        "description": "Learned full stack web development using HTML5, CSS, advanced es6 Javascript, ReactJs, Node Js, Mongo DB and Express. Completed Different projects as a front-end as well as a back-end developer."
+      }
+    ],
+    "work": [],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "React Redux",
+        "level": "60%"
+      },
+      {
+        "name": "Mongo DB",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Illustrator",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Rrock's Bird Graphics",
+        "category": "A Graphic designing startup website",
+        "image": "01.png",
+        "url": "https://haziqsheikh.github.io/rocksbird/"
+      },
+      {
+        "title": "Emotions Kart",
+        "category": "Full fledge E-commerce website",
+        "image": "02.png",
+        "url": "https://emotionskart.herokuapp.com/"
+      },
+      {
+        "title": "Awesome portfolio",
+        "category": "Personal portfolio website",
+        "image": "03.png",
+        "url": "https://hr-awesome-portfolio.netlify.app/"
+      }
+    ]
+  }
+}
