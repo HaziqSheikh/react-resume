@@ -50,8 +50,8 @@
     width: 135px;
     height: 144px;
     border-radius: 25%;
-    margin-left: 140px;
-    margin-bottom: 40px;
+    margin: 40px 90px;
+    /* margin-bottom: 40px; */
   }
   #about .contact-details {
     width: 50%;
